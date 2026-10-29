@@ -1,0 +1,4 @@
+# Install/upgrade to the latest compatible stable release; actual version is recorded in every result.
+yt-dlp[default]>=2026.10.26
+tqdm>=4.67.1,<5
+numpy>=2.0,<3

@@ -1,0 +1,182 @@
+{
+  "batch-01": {
+    "path": "packages/batch-01.tar.gz",
+    "sha256": "e7de0ac36ef7bc1c2447d82a714394cfef04e824e5f064e0644ffed0081c66c6",
+    "bytes": 138388,
+    "contains": [
+      "batch-01/",
+      "worker/"
+    ]
+  },
+  "batch-02": {
+    "path": "packages/batch-02.tar.gz",
+    "sha256": "547dbaecc6238d2d15bac06e9d4651e20a0d64c1952f144e0d88eef262826110",
+    "bytes": 150776,
+    "contains": [
+      "batch-02/",
+      "worker/"
+    ]
+  },
+  "batch-03": {
+    "path": "packages/batch-03.tar.gz",
+    "sha256": "4fcc037ed7f70b141270f1c4255db180f85fb6db7f75e89068b1abd3c7cdd4ce",
+    "bytes": 153610,
+    "contains": [
+      "batch-03/",
+      "worker/"
+    ]
+  },
+  "batch-04": {
+    "path": "packages/batch-04.tar.gz",
+    "sha256": "f45ad83f465ed0324956e465c4baf773bb1314d5e35fb1ca976a46742ac8138e",
+    "bytes": 157553,
+    "contains": [
+      "batch-04/",
+      "worker/"
+    ]
+  },
+  "batch-05": {
+    "path": "packages/batch-05.tar.gz",
+    "sha256": "9f068be7c88df1b05deaf221d586e9ef71bb5d4751cea1dfbecc89fd5fb47b34",
+    "bytes": 173061,
+    "contains": [
+      "batch-05/",
+      "worker/"
+    ]
+  },
+  "batch-06": {
+    "path": "packages/batch-06.tar.gz",
+    "sha256": "72e355a96e4f1c7d8b71f264f3a61d902c3a66a88e7d805018f719c7003ece1a",
+    "bytes": 148750,
+    "contains": [
+      "batch-06/",
+      "worker/"
+    ]
+  },
+  "batch-07": {
+    "path": "packages/batch-07.tar.gz",
+    "sha256": "28615f2c72da78345ca03624fbdb251cd5f08193e0565f5625b4ba339104e5c6",
+    "bytes": 164997,
+    "contains": [
+      "batch-07/",
+      "worker/"
+    ]
+  },
+  "batch-08": {
+    "path": "packages/batch-08.tar.gz",
+    "sha256": "ef71aac9e41b92c9bc2e9598cebad8e9bef150cbac8cf40058e323d2ec69c88b",
+    "bytes": 149809,
+    "contains": [
+      "batch-08/",
+      "worker/"
+    ]
+  },
+  "batch-09": {
+    "path": "packages/batch-09.tar.gz",
+    "sha256": "4be8b02ea8946ce8fbf3609dd71879189dfc0a04a72a8bca615270f477647757",
+    "bytes": 159686,
+    "contains": [
+      "batch-09/",
+      "worker/"
+    ]
+  },
+  "batch-10": {
+    "path": "packages/batch-10.tar.gz",
+    "sha256": "4af79210c43eabec4bc4e0514412d2110cc55cb358cfd1d1de536754e5791e1a",
+    "bytes": 150060,
+    "contains": [
+      "batch-10/",
+      "worker/"
+    ]
+  },
+  "batch-11": {
+    "path": "packages/batch-11.tar.gz",
+    "sha256": "04b5bfac4f3203d5facca5e8121a721c93bd8e92f886fdf9822322c371e7bb68",
+    "bytes": 159716,
+    "contains": [
+      "batch-11/",
+      "worker/"
+    ]
+  },
+  "batch-12": {
+    "path": "packages/batch-12.tar.gz",
+    "sha256": "14604b802cedf12a1daf39840c928d675e9d933f649257ad8d8061e9fd564f84",
+    "bytes": 155122,
+    "contains": [
+      "batch-12/",
+      "worker/"
+    ]
+  },
+  "batch-13": {
+    "path": "packages/batch-13.tar.gz",
+    "sha256": "3a6f3647fb2b4d78b16e32a49325f90c1ee346a907802ce85fe8d394e2180348",
+    "bytes": 177908,
+    "contains": [
+      "batch-13/",
+      "worker/"
+    ]
+  },
+  "batch-14": {
+    "path": "packages/batch-14.tar.gz",
+    "sha256": "2ae1883a64c97a210c271bc4b7aac02b1f9403c85df96a9ca7d7a13003c771c0",
+    "bytes": 158757,
+    "contains": [
+      "batch-14/",
+      "worker/"
+    ]
+  },
+  "batch-15": {
+    "path": "packages/batch-15.tar.gz",
+    "sha256": "24d6142108751c82b96e14288b7c77a0afe36249156a6b29ad7172a2703f31cc",
+    "bytes": 161784,
+    "contains": [
+      "batch-15/",
+      "worker/"
+    ]
+  },
+  "batch-16": {
+    "path": "packages/batch-16.tar.gz",
+    "sha256": "748efb4c985f6e417b87a3ee85ed7ca85041e78debe731ea891f9d91cf15aa66",
+    "bytes": 146725,
+    "contains": [
+      "batch-16/",
+      "worker/"
+    ]
+  },
+  "batch-17": {
+    "path": "packages/batch-17.tar.gz",
+    "sha256": "5eaeeee2b0d7891a70a7054ef0c2ca0cbbd641283724851fd19e50a1ce8bd69b",
+    "bytes": 165362,
+    "contains": [
+      "batch-17/",
+      "worker/"
+    ]
+  },
+  "batch-18": {
+    "path": "packages/batch-18.tar.gz",
+    "sha256": "83c885aa61b44ed44a4d04dcc4f855fc6062cb847a42ac9cade540fa4594cf83",
+    "bytes": 163953,
+    "contains": [
+      "batch-18/",
+      "worker/"
+    ]
+  },
+  "batch-19": {
+    "path": "packages/batch-19.tar.gz",
+    "sha256": "4776ca4f41dbdaa15385f8bba4bc019a0d46d5b28887ef53e1053c1de662a02e",
+    "bytes": 165909,
+    "contains": [
+      "batch-19/",
+      "worker/"
+    ]
+  },
+  "batch-20": {
+    "path": "packages/batch-20.tar.gz",
+    "sha256": "ce394ccdd28cc83488ed45b342639c212514efcb35b668586ae1f14069a5cb9f",
+    "bytes": 159064,
+    "contains": [
+      "batch-20/",
+      "worker/"
+    ]
+  }
+}

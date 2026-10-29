@@ -1,0 +1,18 @@
+{
+  "url": "https://www.youtube.com/watch?v=--C-vISrjZw",
+  "video_id": "--C-vISrjZw",
+  "title": "Keeping Iowa roads safe with AI",
+  "description": "The Iowa Department of Transportation is working with Iowa State University to use AI to improve traffic insights, from detecting congestion, sending first responders to the scenes of accidents faster, and even sensing snow on the roads. \n\nLearn more about TensorFlow: https://www.tensorflow.org/",
+  "author": "Google",
+  "author_url": "https://www.youtube.com/@Google",
+  "duration": 119,
+  "resolution": "1920x1080",
+  "width": 1920,
+  "height": 1080,
+  "view_count": 90888,
+  "like_count": 1261,
+  "crawled_at_utc": "2026-10-28T09:32:55.654457+00:00",
+  "files": [
+    "001.mkv"
+  ]
+}

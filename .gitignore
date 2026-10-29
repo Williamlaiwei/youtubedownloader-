@@ -1,0 +1,48 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local pipeline state and temporary exports
+/.vm-stage-*/
+/controller/data/
+/controller/benchmarks/results/
+/estimate/youtube_size_estimator/output/
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+*.tmp
+
+# Downloaded media and incomplete downloads
+*.mkv
+*.mp4
+*.webm
+*.mov
+*.avi
+*.mp3
+*.m4a
+*.wav
+*.part
+*.ytdl
+
+# Local credentials (keep example configuration files)
+.env
+.env.*
+!.env.example
+!.env.*.example
+oss.env
+*.pem
+*.key
+cookies.txt
+cookies*.txt
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "export_id": "vm-20261028T105822-125b4b7e",
+  "assigned_part": 1,
+  "ready_count": 28,
+  "held_count": 3,
+  "folder_root": "videos",
+  "worker_rule": "Use folder_name exactly; never regenerate names or process held_tasks automatically.",
+  "tasks.jsonl_sha256": "30021472a3d2a2b81da916f0d0bfe28eeb0c63e21d1f6307d7265195e017da0b",
+  "held_tasks.jsonl_sha256": "88332b55b6a4868eedb89d32b752a3343de9f869cb404a07e15e4ff8d2189525"
+}

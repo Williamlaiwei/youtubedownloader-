@@ -1,0 +1,2 @@
+﻿video_id,url,assigned_part,metadata_status,category,permanent,retryable,error_code,error_message,retry_count,next_retry_at,updated_at_utc
+'-F9SyzkXCwI,https://www.youtube.com/watch?v=-F9SyzkXCwI,5,rate_limited,rate_limited,False,True,HTTP_429,HTTP Error 429: Too Many Requests | HTTP 429 | HTTP Error 429: Too Many Requests | HTTP 429,0,,2026-10-28T10:35:57.183016+00:00
